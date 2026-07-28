@@ -1,0 +1,174 @@
+{
+  "excluded_path_count": 124,
+  "excluded_release_outputs": [
+    "arcs_complete_outside_conic.pdf"
+  ],
+  "excluded_symlinks": [],
+  "exporter_blob": "d38f45b035738e161b53233b597538b885c4d039",
+  "files": [
+    {
+      "bytes": 141,
+      "mode": "100644",
+      "path": ".gitignore",
+      "role": "export-support",
+      "sha256": "4f1d41179f809bb51ad9915986829aafa4ed1a1391daab3a62f94d448325779b",
+      "source_blob": null
+    },
+    {
+      "bytes": 308,
+      "mode": "100644",
+      "path": "PROVENANCE.md",
+      "role": "provenance",
+      "sha256": "825cbb0fc4ba427754d266be7d80fa1ecf99c938fe3adc9fcf3050d920c00d0b",
+      "source_blob": null
+    },
+    {
+      "bytes": 2835,
+      "mode": "100644",
+      "path": "README.md",
+      "rewrites": [],
+      "role": "support",
+      "sha256": "ef841fb9a01e389f6ba756cde3783c5076b2f3c8587c2f833517622866c54ce2",
+      "source_blob": "a1ad0ecd11ecdc08bae3943b87bf057724ab712a"
+    },
+    {
+      "bytes": 75704,
+      "mode": "100644",
+      "path": "arcs_complete_outside_conic.tex",
+      "rewrites": [],
+      "role": "manuscript-source",
+      "sha256": "2b291aeaa63c76666a717d9a2a83627407b0af1e89b4ec0ffcc1119d4763322b",
+      "source_blob": "0a0250c8225aafc9fd7b51d5a12e4357db339443"
+    },
+    {
+      "bytes": 2684,
+      "mode": "100644",
+      "path": "check_evaluation_dichotomy.py",
+      "rewrites": [],
+      "role": "verification",
+      "sha256": "6ed309bd2461ce9998cbd3bcaa5396379e6973b7503ce2dcdfb32c9806386566",
+      "source_blob": "6dae2612b392948a8c3c2741e510a59156ffa0bb"
+    },
+    {
+      "bytes": 79326,
+      "mode": "100644",
+      "path": "check_match10_rank_three.json",
+      "rewrites": [],
+      "role": "verification",
+      "sha256": "c2c3619a1c074bd28a9e0b967a4ac1762496589ede0cc636431f484d67fba357",
+      "source_blob": "62048dea9b6bbf6122c1b786a6cfd88065ee299d"
+    },
+    {
+      "bytes": 23229,
+      "mode": "100644",
+      "path": "check_match10_rank_three.py",
+      "rewrites": [],
+      "role": "verification",
+      "sha256": "700ab7ba7a7606249448d8e6569f4638bee3c4b1354da80334cff49cd3613ed5",
+      "source_blob": "a3e9cc190fa60ccf4c16ba6aa2b6c7ec4941c2ae"
+    },
+    {
+      "bytes": 190,
+      "mode": "100644",
+      "path": "check_match10_rank_three.sha256",
+      "rewrites": [],
+      "role": "verification",
+      "sha256": "4ddd207699856fd349a4c36c8c65138e87ba662d05978c4eb22f6608c43e91e8",
+      "source_blob": "736c91bb01c84377e46e88ed122d42005d278cd4"
+    },
+    {
+      "bytes": 13030,
+      "mode": "100644",
+      "path": "check_q11_structure.cpp",
+      "rewrites": [],
+      "role": "support",
+      "sha256": "1753674172d48f1d056d350e30baa9eb67de0810c84a96da0440947768ae041c",
+      "source_blob": "0e97619672f6a8e3007495155140851946360487"
+    },
+    {
+      "bytes": 14536,
+      "mode": "100644",
+      "path": "check_q11_structure.py",
+      "rewrites": [],
+      "role": "verification",
+      "sha256": "0abe909c9aadce0db4c75f296c8de25e929dd1065c906996da8dec017e534d69",
+      "source_blob": "685934a95e335acf897b96b3e071d4af5adc47f3"
+    },
+    {
+      "bytes": 124791,
+      "mode": "100644",
+      "path": "check_q16_uncovered_patterns.json",
+      "rewrites": [],
+      "role": "verification",
+      "sha256": "27c6ffd726dacf505f8717d13f57acf4d691340f3f37ef45e9cc4c2473b3385c",
+      "source_blob": "b298d11c8ab70c0e7d9e33314c7b3b8d892d5129"
+    },
+    {
+      "bytes": 10232,
+      "mode": "100644",
+      "path": "check_q16_uncovered_patterns.py",
+      "rewrites": [],
+      "role": "verification",
+      "sha256": "73a77f92565980bdebc965b9422c3338d6075505474f3293f54fcaa19cd06afe",
+      "source_blob": "fbdf1b012049711b60b63e4f5e144269f90dab04"
+    },
+    {
+      "bytes": 319,
+      "mode": "100644",
+      "path": "check_q16_uncovered_patterns.sha256",
+      "rewrites": [],
+      "role": "verification",
+      "sha256": "871e1baaf6255ca728937e17c5950c3ac8ff5cbf24c35e32afc410e03252ccb8",
+      "source_blob": "12251a6ab3ec25ac95e5a49b2196c5b5647c70be"
+    },
+    {
+      "bytes": 25574,
+      "mode": "100644",
+      "path": "search_rhoc16.cpp",
+      "rewrites": [],
+      "role": "support",
+      "sha256": "589af8430e94b4c9c23ce895e6d32d2b3b5b9b387b1fb23ed6d3875cdee39031",
+      "source_blob": "1270f27125d5f1933158fe501b8c729cb8a2b209"
+    },
+    {
+      "bytes": 680,
+      "mode": "100644",
+      "path": "search_rhoc16_output.txt",
+      "rewrites": [],
+      "role": "support",
+      "sha256": "6989079b5cb64b0e57d5c42b872093fff99f861300b8fbb909daef450c15cc63",
+      "source_blob": "1aa7d7caeb2a078d6b792ecd368cccf33157df71"
+    },
+    {
+      "bytes": 6076,
+      "mode": "100644",
+      "path": "verify_relative_conic_arcs.py",
+      "rewrites": [],
+      "role": "verification",
+      "sha256": "e9508958d604e68c6c3d09fd3afadfaa8a3126508a51f1dfa993e7a7aed5d36a",
+      "source_blob": "15838cf2ea5ae64d9c978759606658687c00540c"
+    },
+    {
+      "bytes": 420,
+      "mode": "100644",
+      "path": "verify_relative_conic_arcs_output.txt",
+      "rewrites": [],
+      "role": "support",
+      "sha256": "f0a7918605c42acc350f28a285632ce564bc3a8b5fc998650eaf843e7d345471",
+      "source_blob": "f4a1ffec179f0ab28cf367622a27a8535a24f57e"
+    }
+  ],
+  "github": "tavisrudd/arcs-complete-outside-conic",
+  "main_sources": [
+    "arcs_complete_outside_conic.tex"
+  ],
+  "manifest_self_excluded": true,
+  "paper_ids": [
+    "arcs_complete_outside_conic"
+  ],
+  "paper_registry_sha256": "e3d7a09841ddaa925ef9196f1d36df4be5efa06c2fb51d1e557cd6cdde971f22",
+  "repository": "arcs-complete-outside-conic",
+  "repository_map_sha256": "c6ce20755b904d93ebf33e840efa9c6d3eef33b2a5777679a3c1e5e2629c0c7f",
+  "schema_version": 1,
+  "source_commit": "3080ee499bc70a30c31049d45381f796ad5678fa"
+}
