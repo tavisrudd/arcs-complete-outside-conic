@@ -19,26 +19,26 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "825cbb0fc4ba427754d266be7d80fa1ecf99c938fe3adc9fcf3050d920c00d0b",
+      "sha256": "cc71b84f24ef02534aea70892cf3db9080d8c6c866e92d6500cfd1ee8ede8c70",
       "source_blob": null
     },
     {
-      "bytes": 2835,
+      "bytes": 2972,
       "mode": "100644",
       "path": "README.md",
       "rewrites": [],
       "role": "support",
-      "sha256": "ef841fb9a01e389f6ba756cde3783c5076b2f3c8587c2f833517622866c54ce2",
-      "source_blob": "a1ad0ecd11ecdc08bae3943b87bf057724ab712a"
+      "sha256": "aa04fb2dabe4cea0f2d9e7e8f7a75012cac802cadcd2347bee17d153327f949f",
+      "source_blob": "53b0e5b02c2b0d8c89edcfcd7350d94ca36438fd"
     },
     {
-      "bytes": 75704,
+      "bytes": 75857,
       "mode": "100644",
       "path": "arcs_complete_outside_conic.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "2b291aeaa63c76666a717d9a2a83627407b0af1e89b4ec0ffcc1119d4763322b",
-      "source_blob": "0a0250c8225aafc9fd7b51d5a12e4357db339443"
+      "sha256": "5a1d88909557044e68b87334512f8af5008f90a17e7b9e79aa0149bc1b93c8cd",
+      "source_blob": "83ab68faa82fa774e2000be4cf8f5d4b7f86f592"
     },
     {
       "bytes": 2684,
@@ -170,5 +170,5 @@
   "repository": "arcs-complete-outside-conic",
   "repository_map_sha256": "c6ce20755b904d93ebf33e840efa9c6d3eef33b2a5777679a3c1e5e2629c0c7f",
   "schema_version": 1,
-  "source_commit": "3080ee499bc70a30c31049d45381f796ad5678fa"
+  "source_commit": "9d5c540e06b2acd4083c498fb6d0977db708af4e"
 }
