@@ -35,7 +35,7 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "c0c010a197fa7be4b46fcd04c42dd5f26769a6919e41c086aa3daaff1d3b35ac",
+      "sha256": "4891a0c36cd5b17c704bcb7d54d94724df04a8be01fcc04c22cb5f3553dbbc56",
       "source_blob": null
     },
     {
@@ -147,13 +147,13 @@
       "source_blob": "12251a6ab3ec25ac95e5a49b2196c5b5647c70be"
     },
     {
-      "bytes": 25574,
+      "bytes": 25540,
       "mode": "100644",
       "path": "search_rhoc16.cpp",
       "rewrites": [],
       "role": "support",
-      "sha256": "589af8430e94b4c9c23ce895e6d32d2b3b5b9b387b1fb23ed6d3875cdee39031",
-      "source_blob": "1270f27125d5f1933158fe501b8c729cb8a2b209"
+      "sha256": "4adc0d01cb20029a6112b0bfc2f2ec9c91d0fcdd406c9b367d823be6a5c83685",
+      "source_blob": "5e9132f30372d83b5042478d3ecee4c7627f57ef"
     },
     {
       "bytes": 680,
@@ -195,5 +195,5 @@
   "repository": "arcs-complete-outside-conic",
   "repository_map_sha256": "ea07e62132ccdf3b29a24c1d1974a0cd7ee11b77d338c33660c732cb6889428d",
   "schema_version": 1,
-  "source_commit": "e134b0fe8a5329472940c5e8ecaabfbee2c9e4e8"
+  "source_commit": "50c85c8f651199cf01eae7a3cc1a71d1e4a8a14b"
 }
