@@ -18,8 +18,13 @@ For a nonsingular conic \(\mathcal C\subset PG(2,q)\), the paper studies arcs
   \(\rho_{\mathcal C}(16)=9\); and
 - a classification certificate excluding every eight-arc at \(q=16\).
 
-The formal development is distributed separately in
-[`tavisrudd/finitegeom`](https://github.com/tavisrudd/finitegeom). The
+The human-scale formal development is distributed in
+[`tavisrudd/finitegeom`](https://github.com/tavisrudd/finitegeom), pinned at
+commit `77c0d6bb5a45a1aa15a0ab90b7db307e1a1804d2`. The exhaustive order-16
+classification is in the downstream
+[`finitegeom-q16-certificates`](https://github.com/tavisrudd/finitegeom-q16-certificates)
+package, pinned at commit
+`06eec4598cd60b2d56647136fab3925229d12410`. The
 version-independent archival locator is the Zenodo concept DOI
 [`10.5281/zenodo.21650878`](https://doi.org/10.5281/zenodo.21650878).
 The manuscript identifies the exact gate, theorem names, trust boundary,
@@ -71,9 +76,10 @@ Regenerate the \(q=16\) search report with:
 
 ```text
 g++ -O3 -std=c++20 search_rhoc16.cpp -o /var/tmp/search_rhoc16
-/var/tmp/search_rhoc16 --emit-lean
+/var/tmp/search_rhoc16
 ```
 
 The search report is a generation summary, not the formal certificate. The
-kernel-checked transition and leaf modules in the separate formal repository
-establish the exhaustive covering-list result.
+kernel-checked transition and leaf modules in the certificate repository
+establish the exhaustive covering-list result. That repository contains the
+exact generator and the command for regenerating its Lean sources.
