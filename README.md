@@ -1,5 +1,7 @@
 # Arcs complete outside a conic
 
+[![DOI](https://zenodo.org/badge/1316336738.svg)](https://doi.org/10.5281/zenodo.21682567)
+
 This repository contains the manuscript
 *Arcs complete outside a conic: a prescribed-hole defect identity and
 matching-design rigidity* by Tavis Rudd, together with its public
