@@ -1,6 +1,6 @@
 {
   "certificate": {
-    "commit": "06eec4598cd60b2d56647136fab3925229d12410",
+    "commit": "ecee482dd8d3501a0077a0781398a34df5f0f604",
     "finitegeom_dependency": "ef6317c5e1a348a91a1928104f9c8e1831bfb03d",
     "gate": "RelativeConicArcs.Gates.ArcsCompleteOutsideConic",
     "manifest": "MANIFEST.json",

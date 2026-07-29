@@ -26,7 +26,7 @@ commit `77c0d6bb5a45a1aa15a0ab90b7db307e1a1804d2`. The exhaustive order-16
 classification is in the downstream
 [`finitegeom-q16-certificates`](https://github.com/tavisrudd/finitegeom-q16-certificates)
 package, pinned at commit
-`06eec4598cd60b2d56647136fab3925229d12410`. The
+`ecee482dd8d3501a0077a0781398a34df5f0f604`. The
 version-independent archival locator is the Zenodo concept DOI
 [`10.5281/zenodo.21650878`](https://doi.org/10.5281/zenodo.21650878).
 The manuscript identifies the exact gate, theorem names, trust boundary,
