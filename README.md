@@ -2,6 +2,10 @@
 
 [![DOI](https://zenodo.org/badge/1316336738.svg)](https://doi.org/10.5281/zenodo.21682567)
 
+## Read the paper
+
+[**Open the paper (PDF) →**](arcs_complete_outside_conic.pdf)
+
 This repository contains the manuscript
 *Arcs complete outside a conic: a prescribed-hole defect identity and
 matching-design rigidity* by Tavis Rudd, together with its public
