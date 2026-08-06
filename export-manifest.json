@@ -13,13 +13,13 @@
       "source_blob": null
     },
     {
-      "bytes": 1351,
+      "bytes": 1567,
       "mode": "100644",
       "path": ".zenodo.json",
       "rewrites": [],
       "role": "verification",
-      "sha256": "65602324560cf1f151e72060950a85ef2676a4765fa18d5a2069c43569679345",
-      "source_blob": "2b371e8ceb8e03ce428379a63771ee4579ea3ce1"
+      "sha256": "4862fa57579d40c538317cdd936ff6d818d7ed864baf196b3660a50ec109b004",
+      "source_blob": "2b5ee3d2cedbaddc6e0f74c3df1c39c037c7707f"
     },
     {
       "bytes": 470,
@@ -35,7 +35,7 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "aa620069c43a0faae23bee590555b6ae869778f60e67e7eed9497cee5ae3bfce",
+      "sha256": "c0e0eaa912ad6c3fdf246fd4343c546f8a5ed0d43c7f9b7dd67fbcbb736ddffc",
       "source_blob": null
     },
     {
@@ -48,22 +48,22 @@
       "source_blob": "c3f461ecbf1f466cdf93b9609dbd4675f0758391"
     },
     {
-      "bytes": 188794,
+      "bytes": 189342,
       "mode": "100644",
       "path": "arcs_complete_outside_conic.pdf",
       "rewrites": [],
       "role": "release-output",
-      "sha256": "31d6728bfcda374eaa8205417eb3651743a96d33a3c6486cf895a98b94944510",
-      "source_blob": "96b406eaeb7742dee6cef700a288ef3a988669f3"
+      "sha256": "a794429a5ef35cf645a21666370ea2a74ad3a1854aa98a2450829f3751b32862",
+      "source_blob": "d7fbc82a1100c4a9da19d2d98c7806dca51ee013"
     },
     {
-      "bytes": 84167,
+      "bytes": 84407,
       "mode": "100644",
       "path": "arcs_complete_outside_conic.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "5b43b5da227a867a5f76cf1cb80a1557f71ee643fb0840670ac3eabf62b4d389",
-      "source_blob": "5baa1aa4f8af898fea41845a7a2e22510d21bf4c"
+      "sha256": "84208d389110bdf2b472f0bf3f7e48f189f97c3bbd2a8f6a462a11474a415a22",
+      "source_blob": "fa3e73d223755336888600daa4a4cfb0a24e8caf"
     },
     {
       "bytes": 2684,
@@ -218,10 +218,10 @@
   "paper_ids": [
     "arcs_complete_outside_conic"
   ],
-  "paper_registry_sha256": "5f4582b32c009ec3446aa55f3f34974dd7d2e33ac56c44a346ebf6971cdd4f8c",
+  "paper_registry_sha256": "603ca0770496b2e4fcbdb4cf5db5126a70f5ed52d5f7e1789d70e3fb83c0f21d",
   "release_output_policy": "legacy-unspecified",
   "repository": "arcs-complete-outside-conic",
-  "repository_map_sha256": "1bdb09c56a03b75d686d0267263cefe6b18befe52a3bbbc522bbc9b68b74c8ba",
+  "repository_map_sha256": "59230e8d90cbd3a647c7577061816d50d5f3d2fa9ffa1a21e9d6da3c5251fba9",
   "schema_version": 1,
-  "source_commit": "deebf928d75ee53e4dd21c6b2779c077b9d7c42c"
+  "source_commit": "58729c97aa3f22c297abee63749dc3da0501c279"
 }
