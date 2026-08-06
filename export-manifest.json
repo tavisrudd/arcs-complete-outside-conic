@@ -35,7 +35,7 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "b69538edc7753d1381320b2dc33f37b2bd7eba73bcb53be505cbb490a14f4917",
+      "sha256": "aa620069c43a0faae23bee590555b6ae869778f60e67e7eed9497cee5ae3bfce",
       "source_blob": null
     },
     {
@@ -221,7 +221,7 @@
   "paper_registry_sha256": "5f4582b32c009ec3446aa55f3f34974dd7d2e33ac56c44a346ebf6971cdd4f8c",
   "release_output_policy": "legacy-unspecified",
   "repository": "arcs-complete-outside-conic",
-  "repository_map_sha256": "cefc87eca06986ec4a613c1b6ff3652e099c8779cfb9dcba178d81bac91ce8dd",
+  "repository_map_sha256": "1bdb09c56a03b75d686d0267263cefe6b18befe52a3bbbc522bbc9b68b74c8ba",
   "schema_version": 1,
-  "source_commit": "86e141fd6f9f60c0b01b97b127bc0b29b1706c39"
+  "source_commit": "deebf928d75ee53e4dd21c6b2779c077b9d7c42c"
 }
