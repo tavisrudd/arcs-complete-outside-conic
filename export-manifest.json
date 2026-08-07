@@ -35,7 +35,7 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "b69f82bdcc3c88d8288a0434d4213f6f32f2ff7f796779b66090ef8f53990776",
+      "sha256": "a8223906638f8fda2c58c56290c8af44fb0ce8b6501dddc7feb76a10229aea69",
       "source_blob": null
     },
     {
@@ -250,5 +250,5 @@
   "repository": "arcs-complete-outside-conic",
   "repository_map_sha256": "59230e8d90cbd3a647c7577061816d50d5f3d2fa9ffa1a21e9d6da3c5251fba9",
   "schema_version": 1,
-  "source_commit": "83c162a23d99825eda93fdd702e06cb8c4ad2b31"
+  "source_commit": "8450caa9919558ccac42d15373d6234cbe5078db"
 }
