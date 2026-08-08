@@ -35,17 +35,17 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "a8223906638f8fda2c58c56290c8af44fb0ce8b6501dddc7feb76a10229aea69",
+      "sha256": "cdbeff931497913aff65009c3aa2557838549e48a4d9588446030f684fe8be89",
       "source_blob": null
     },
     {
-      "bytes": 5862,
+      "bytes": 5961,
       "mode": "100644",
       "path": "README.md",
       "rewrites": [],
       "role": "support",
-      "sha256": "1c73546a6189fee71bdd0838a4f30ad3c3351ee79d6fb8ac3e068b3868cfaa45",
-      "source_blob": "003c943c617584fdb89910e3920d2c0c4dc80d07"
+      "sha256": "f988ca63d7694e5e663ddd142f26af40c5f50da629b38979f47798dfe78af87e",
+      "source_blob": "32015c14a13ad595aa05af3989f0a67697afc52e"
     },
     {
       "bytes": 189442,
@@ -245,10 +245,10 @@
   "paper_ids": [
     "arcs_complete_outside_conic"
   ],
-  "paper_registry_sha256": "603ca0770496b2e4fcbdb4cf5db5126a70f5ed52d5f7e1789d70e3fb83c0f21d",
+  "paper_registry_sha256": "425708671b56fda38b8dba3daaf10945ad37c8647dabf4dd5041d7b37205497d",
   "release_output_policy": "legacy-unspecified",
   "repository": "arcs-complete-outside-conic",
   "repository_map_sha256": "59230e8d90cbd3a647c7577061816d50d5f3d2fa9ffa1a21e9d6da3c5251fba9",
   "schema_version": 1,
-  "source_commit": "8450caa9919558ccac42d15373d6234cbe5078db"
+  "source_commit": "96746f704348442e800307ed0ff23b448d169ad4"
 }
