@@ -2,7 +2,7 @@
   "excluded_path_count": 123,
   "excluded_release_outputs": [],
   "excluded_symlinks": [],
-  "exporter_blob": "7bc6af6a40123bfa071466d9ed3faeaafb7e8d60",
+  "exporter_blob": "bc16a3f02957af1342e19dfe7fad78e003d8c5dc",
   "files": [
     {
       "bytes": 108,
@@ -35,7 +35,7 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "672fa9266f2bf4a0a2cbcfb07a0a22e4200beadcb265bfeca96cef505128aa3f",
+      "sha256": "dbcc5e24b52143739133a6a8580059ae3d1c0b4a731ca30c8ded8943ee3519d5",
       "source_blob": null
     },
     {
@@ -48,22 +48,22 @@
       "source_blob": "32015c14a13ad595aa05af3989f0a67697afc52e"
     },
     {
-      "bytes": 195463,
+      "bytes": 195428,
       "mode": "100644",
       "path": "arcs_complete_outside_conic.pdf",
       "rewrites": [],
       "role": "release-output",
-      "sha256": "8328f72bc9be3b31456a618026562c3301d7d22acdf02e2c43ffdeba5ceed76c",
-      "source_blob": "2db4461c6b163d62a34087947dcbc9e24d128669"
+      "sha256": "646c5c199c7be1ee13b5e0b01e8b607ba256f06953f66ed7d0c5ebcd617813f0",
+      "source_blob": "0ef3473d6e05acd99d7dd350bf38783e1b97260a"
     },
     {
-      "bytes": 88159,
+      "bytes": 87943,
       "mode": "100644",
       "path": "arcs_complete_outside_conic.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "087e211929a3864cb71905fb3330d543fd598a7956c7f4d5fe1d4be052c31081",
-      "source_blob": "51e5f1bfda98d4158f468359835a6bb1d60c7877"
+      "sha256": "a19f7827a911de09f64e20ec2cf34d7b61fcf8c3f4ea666423ed92e01f6484c6",
+      "source_blob": "1c3040fa1e64fdb8d8ad66ad517873361af1dd51"
     },
     {
       "bytes": 2684,
@@ -245,10 +245,10 @@
   "paper_ids": [
     "arcs_complete_outside_conic"
   ],
-  "paper_registry_sha256": "425708671b56fda38b8dba3daaf10945ad37c8647dabf4dd5041d7b37205497d",
+  "paper_registry_sha256": "0f703cd3ebc2cce20cc63b62429557a98c57e4e77ccec4738e668d4f0066b550",
   "release_output_policy": "legacy-unspecified",
   "repository": "arcs-complete-outside-conic",
-  "repository_map_sha256": "98abb280d382d281cf08623f05acffa071a53a792cda31e419791fba225e4102",
+  "repository_map_sha256": "b58ac61c524b0f923124defdf01266eb9de73b50c8df8500e886e53fbfa37dfc",
   "schema_version": 1,
-  "source_commit": "36f87c49631252189b66457f5ea8c9da03c16040"
+  "source_commit": "952c1d05eb179735d5e2b7462831ec62bbe35b62"
 }
