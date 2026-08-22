@@ -1,6 +1,6 @@
 # Export provenance
 
-- Source snapshot commit: `952c1d05eb179735d5e2b7462831ec62bbe35b62`
+- Source snapshot commit: `0c9eb45929e8571c34199247169a26f2f153a16d`
 - Repository identity: `tavisrudd/arcs-complete-outside-conic`
 - Export method: deterministic, content-addressed source materialization.
 - File hashes and source blob identities are recorded in `export-manifest.json`.

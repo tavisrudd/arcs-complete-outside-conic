@@ -35,17 +35,17 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "dbcc5e24b52143739133a6a8580059ae3d1c0b4a731ca30c8ded8943ee3519d5",
+      "sha256": "936d60fe53a27c378d25bdcd02fb3cc34701c8d1f2ef8c8a26075ec599a696cb",
       "source_blob": null
     },
     {
-      "bytes": 5961,
+      "bytes": 5877,
       "mode": "100644",
       "path": "README.md",
       "rewrites": [],
       "role": "support",
-      "sha256": "f988ca63d7694e5e663ddd142f26af40c5f50da629b38979f47798dfe78af87e",
-      "source_blob": "32015c14a13ad595aa05af3989f0a67697afc52e"
+      "sha256": "fe4d71057bbaa79e905a406951922ea33581660accaa7cafab153baa346ba314",
+      "source_blob": "790c37cf94a0966925d9829d8719021a7a999d9b"
     },
     {
       "bytes": 195428,
@@ -250,5 +250,5 @@
   "repository": "arcs-complete-outside-conic",
   "repository_map_sha256": "b58ac61c524b0f923124defdf01266eb9de73b50c8df8500e886e53fbfa37dfc",
   "schema_version": 1,
-  "source_commit": "952c1d05eb179735d5e2b7462831ec62bbe35b62"
+  "source_commit": "0c9eb45929e8571c34199247169a26f2f153a16d"
 }
