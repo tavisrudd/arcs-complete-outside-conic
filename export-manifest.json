@@ -1,8 +1,8 @@
 {
+  "content_sha256": "6be7648457ff365cf44931293b13fa9deb4c7a1682b5c52784681906f46ef9a0",
   "excluded_path_count": 123,
   "excluded_release_outputs": [],
   "excluded_symlinks": [],
-  "exporter_blob": "bc16a3f02957af1342e19dfe7fad78e003d8c5dc",
   "files": [
     {
       "bytes": 108,
@@ -31,11 +31,11 @@
       "source_blob": "48fe1688b86d4e1feef1d929170e74cc8adff356"
     },
     {
-      "bytes": 308,
+      "bytes": 513,
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "936d60fe53a27c378d25bdcd02fb3cc34701c8d1f2ef8c8a26075ec599a696cb",
+      "sha256": "645a504e89fa18560b3ed5857866288c57b6719e1240a14d14599f725ce3bb13",
       "source_blob": null
     },
     {
@@ -48,22 +48,22 @@
       "source_blob": "790c37cf94a0966925d9829d8719021a7a999d9b"
     },
     {
-      "bytes": 195428,
+      "bytes": 196258,
       "mode": "100644",
       "path": "arcs_complete_outside_conic.pdf",
       "rewrites": [],
       "role": "release-output",
-      "sha256": "646c5c199c7be1ee13b5e0b01e8b607ba256f06953f66ed7d0c5ebcd617813f0",
-      "source_blob": "0ef3473d6e05acd99d7dd350bf38783e1b97260a"
+      "sha256": "9e45dfe7395c73f1490de61774ca9fb400e85771a6b8f81cd74da582651e5bc4",
+      "source_blob": "5ef8121e1604d1e23faec21c7b24ff3005d56638"
     },
     {
-      "bytes": 87943,
+      "bytes": 88476,
       "mode": "100644",
       "path": "arcs_complete_outside_conic.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "a19f7827a911de09f64e20ec2cf34d7b61fcf8c3f4ea666423ed92e01f6484c6",
-      "source_blob": "1c3040fa1e64fdb8d8ad66ad517873361af1dd51"
+      "sha256": "ab02c2eb385ef804e3843b2e9047109c87c61e314d86b7d1a1231b14d8ca23a1",
+      "source_blob": "ed4830d7e307ef4e7671e91d35dc9df38d0e19b6"
     },
     {
       "bytes": 2684,
@@ -242,13 +242,6 @@
     "arcs_complete_outside_conic.tex"
   ],
   "manifest_self_excluded": true,
-  "paper_ids": [
-    "arcs_complete_outside_conic"
-  ],
-  "paper_registry_sha256": "0f703cd3ebc2cce20cc63b62429557a98c57e4e77ccec4738e668d4f0066b550",
-  "release_output_policy": "legacy-unspecified",
   "repository": "arcs-complete-outside-conic",
-  "repository_map_sha256": "b58ac61c524b0f923124defdf01266eb9de73b50c8df8500e886e53fbfa37dfc",
-  "schema_version": 1,
-  "source_commit": "0c9eb45929e8571c34199247169a26f2f153a16d"
+  "schema_version": 1
 }
