@@ -1,5 +1,5 @@
 {
-  "content_sha256": "412fb6092c57deb74c6b201a838f3d3f6b7603370f06b1248272930177c64b92",
+  "content_sha256": "f2b37207d0994fd68576a44a954a0eac16189e17fc8bc8d89731adae978e1e27",
   "excluded_path_count": 123,
   "excluded_release_outputs": [],
   "excluded_symlinks": [],
@@ -13,13 +13,13 @@
       "source_blob": null
     },
     {
-      "bytes": 1567,
+      "bytes": 1544,
       "mode": "100644",
       "path": ".zenodo.json",
       "rewrites": [],
       "role": "verification",
-      "sha256": "4862fa57579d40c538317cdd936ff6d818d7ed864baf196b3660a50ec109b004",
-      "source_blob": "2b5ee3d2cedbaddc6e0f74c3df1c39c037c7707f"
+      "sha256": "b0b1202e816db91d60058058cd5bc9ac0a0e1e3f00dee63fd965126dca57e9b4",
+      "source_blob": "23e67dd66b38d6b6e4f67a689c263bd84cdab4fd"
     },
     {
       "bytes": 470,
@@ -35,35 +35,35 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "75e0e1aba209e3e09712a061d603783b384385010c4d972bf757c37f71a3a73b",
+      "sha256": "bd1a9db939374c960e35a6e762cd8ffb1dcc5dcc7af62e3175facfe33e796354",
       "source_blob": null
     },
     {
-      "bytes": 5877,
+      "bytes": 5861,
       "mode": "100644",
       "path": "README.md",
       "rewrites": [],
       "role": "support",
-      "sha256": "fe4d71057bbaa79e905a406951922ea33581660accaa7cafab153baa346ba314",
-      "source_blob": "790c37cf94a0966925d9829d8719021a7a999d9b"
+      "sha256": "83d2f47d76dd790bb62265c25e3ced66a50f48661c58422741e001be29a23768",
+      "source_blob": "5d86a6410a199aa7257eda45bc6eb26f4e0dbb19"
     },
     {
-      "bytes": 196923,
+      "bytes": 249961,
       "mode": "100644",
       "path": "arcs_complete_outside_conic.pdf",
       "rewrites": [],
       "role": "release-output",
-      "sha256": "70ee8ed9f31cad1198f0994ec1563ca807be4e08139e19945819c685722256cc",
-      "source_blob": "14cd59b3c12c52a74bb7358efba15dbb78413d77"
+      "sha256": "b88adbf2baeb7982a339c16ec29941e7ce584085f1ecf49914a1acfab38d420e",
+      "source_blob": "8cf66f8d7a27df7cf7bfabb495df1baa14335407"
     },
     {
-      "bytes": 89048,
+      "bytes": 119070,
       "mode": "100644",
       "path": "arcs_complete_outside_conic.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "ff35663dc3da788fbc2cb44a75347cf118db0955d389a743cce394eb55d4ee71",
-      "source_blob": "62d25f80a79530771ec108a32fc43a95ab66dd72"
+      "sha256": "f9a87ac759aaa396a0a960b4138f053cb906438d8c8ae898287c430543540487",
+      "source_blob": "f708304ba1712782b3829f1dfcc329d8e5d3c358"
     },
     {
       "bytes": 2684,
@@ -215,8 +215,8 @@
       "path": "verification/check_manuscript_build.py",
       "rewrites": [],
       "role": "verification",
-      "sha256": "516e93c3d7e9f0002e07a9ebd78419bbc7f4672b4df9e3465f1f81118e14b0e4",
-      "source_blob": "9fa75bdba24d6fab4e21cd10c4dc33537a05109a"
+      "sha256": "a4b30e4c2998f1135bc4c8015c3286c3da511d6b18d262839a60ae61ecc37a9a",
+      "source_blob": "1163063546779833b41256b75437d30d5ea3e1ed"
     },
     {
       "bytes": 6076,
