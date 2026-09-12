@@ -1,5 +1,5 @@
 {
-  "content_sha256": "84c70c70062a414ddec885378af2c33c152e56fc9352a7b4d3e262ce9adc46ca",
+  "content_sha256": "96b669b8b46bec820faff531923160857bd0b2b98c6b7767bdc78b308123a0d1",
   "excluded_path_count": 123,
   "excluded_release_outputs": [],
   "excluded_symlinks": [],
@@ -18,8 +18,8 @@
       "path": ".zenodo.json",
       "rewrites": [],
       "role": "verification",
-      "sha256": "b0b1202e816db91d60058058cd5bc9ac0a0e1e3f00dee63fd965126dca57e9b4",
-      "source_blob": "23e67dd66b38d6b6e4f67a689c263bd84cdab4fd"
+      "sha256": "12163adb6fe9605e65ee508415941469463d6fdc36882f91b4ed1684a3ee2778",
+      "source_blob": "5aea75e87d5c80f44b199efc8d50cc3416fa0b77"
     },
     {
       "bytes": 470,
@@ -35,7 +35,7 @@
       "mode": "100644",
       "path": "PROVENANCE.md",
       "role": "provenance",
-      "sha256": "e7a8402fb075ebe73cdd53aabcd9c43ee11fcf6249700fcb80db4c26d929ee12",
+      "sha256": "0b95635ce5ba2716743ae6ec9931d621aea6fa9b007904267e792d9bb7282ba6",
       "source_blob": null
     },
     {
@@ -44,26 +44,26 @@
       "path": "README.md",
       "rewrites": [],
       "role": "support",
-      "sha256": "83d2f47d76dd790bb62265c25e3ced66a50f48661c58422741e001be29a23768",
-      "source_blob": "5d86a6410a199aa7257eda45bc6eb26f4e0dbb19"
+      "sha256": "9e08ae046e9200558693514bbe0ffdd0cc1515a1f01841ad30d09d2e47242429",
+      "source_blob": "4261e08333e291d49efdfac727f0a2c5930902dc"
     },
     {
-      "bytes": 257098,
+      "bytes": 258158,
       "mode": "100644",
       "path": "arcs_complete_outside_conic.pdf",
       "rewrites": [],
       "role": "release-output",
-      "sha256": "977445cc7358e18fea9e23fd9c447ed04dae2debe749ac760a3fb47877042d31",
-      "source_blob": "da1cc80ab3625193dfa321874e91948479b5be53"
+      "sha256": "9862158d009e627a38d8a738ec1d2419ab44dd2ae2ab62effa4fa323bcb3ec04",
+      "source_blob": "ae09bfc078522dd25ed356cd34d09eb208ac4198"
     },
     {
-      "bytes": 123084,
+      "bytes": 123089,
       "mode": "100644",
       "path": "arcs_complete_outside_conic.tex",
       "rewrites": [],
       "role": "manuscript-source",
-      "sha256": "c966e04b03082e22e800519d39fc95fb58eb5af33407e1ceaa7f3f0e5459dd91",
-      "source_blob": "41253d79f50c535a6f104d52e261903ac7dd95f8"
+      "sha256": "d46467928d2abe45200227d335492f6f33b5773b486939694f3ad42690583b22",
+      "source_blob": "f872e7e9986a7914f94bb25c12b3e97c95987b6b"
     },
     {
       "bytes": 2684,
@@ -134,8 +134,8 @@
       "path": "flake.nix",
       "rewrites": [],
       "role": "support",
-      "sha256": "9717287b35144a3e671f9b380b6bbaf4c8ec8da9561f5b2cc41fb2d51948c858",
-      "source_blob": "9d2f79dc11c9c405ea4f25266f03dbeede09245d"
+      "sha256": "8c6e68012ee70585c3df5d4fdf7bd4dd3565c89ff019158545026ff230cd6cff",
+      "source_blob": "d714db96732ee20b4e8d7687b70c871458326634"
     },
     {
       "bytes": 236,
