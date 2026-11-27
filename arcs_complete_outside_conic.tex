@@ -35,7 +35,7 @@
 \title{Secant Defects with Prescribed Holes:\\
 Arcs, Caps, and Matching Designs}
 \author{Tavis Rudd}
-\date{September 2026}
+\date{November 2026}
 
 \begin{document}
 \maketitle
@@ -291,8 +291,13 @@ Appendix~\ref{sec:equality-classifications}.
 
 For a first pass, read Sections~\ref{sec:classical}--\ref{sec:conic} and the
 conclusion: they contain the complete route from exact accounting through
-equality rigidity and stability to the conic bound and equality spectra.  A
-reader interested only in that mechanism may stop there.  The exact finite
+equality rigidity and stability to the conic bound and equality spectra,
+and only the ten-point refinement in
+Corollary~\ref{cor:small-even-equality} draws on
+Appendix~\ref{sec:equality-classifications}.  A reader interested only in
+that mechanism may stop there.  Section~\ref{sec:caps}, on caps in
+\(\PG(n,q)\), uses only Sections~\ref{sec:classical}
+and~\ref{sec:defect}.  The exact finite
 values continue in Appendix~\ref{sec:examples}; the equality-realization
 classification, upper-bound transfer, nucleus refinements, inverse
 reconstruction, verification contracts, and coordinate witnesses are
@@ -1156,7 +1161,7 @@ L_2(q)&4&6&6&6&7&8&8&8\\
 \]
 The last row combines the analytic lower bounds at $q=5,8,9,11$, the
 kernel-checked classification at $q=16$, and the exhaustive classifications
-at $q=13,17,19$ described in Section~\ref{sec:examples}.  Thus the
+at $q=13,17,19$ described in Appendix~\ref{sec:examples}.  Thus the
 second-moment correction alone proves, for example, that a
 $\cC$-complete arc in $\PG(2,16)$ has at least eight points, while the
 finite classifications determine the displayed exact values.
@@ -1251,11 +1256,15 @@ side is
 It is nonnegative, so
 Lemma~\ref{lem:polynomial-estimate} gives
 $a\ge3/2-8/s$, which is~\eqref{eq:asymptotic-lower}.  Letting $q$ tend to
-infinity through prime powers gives~\eqref{eq:liminf}.
+infinity through prime powers gives~\eqref{eq:liminf}.  The argument uses
+only the inequality defining \(L_2(q)\) in
+Corollary~\ref{cor:exact-integer-bound}, so applied to \(k=L_2(q)\) it
+gives \(L_2(q)\ge\sqrt{2q}+\frac32-\frac8{\sqrt{2q}}\) for every integer
+\(q\ge2\), as stated in Theorem~\ref{thm:main-conic}.
 \end{proof}
 
 The conic supplies the finite bound~\eqref{eq:asymptotic-lower}, but the
-limit~\eqref{eq:liminf} needs far fewer than $q+1$ exempt points to be
+limit~\eqref{eq:liminf} needs far more than $q+1$ exempt points to be
 disturbed: the hole count must reach the scale $q^{3/2}$ before the
 additive constant moves.
 
@@ -1317,7 +1326,7 @@ additional mechanism, not merely a spectral estimate for $\IC(A)$.
 \label{rem:independent-domination}
 A $\cC$-complete arc is one step from an ordinary complete arc, and the
 step is a graph problem on the uncovered locus.  Let $A$ be
-$\cC$-complete with $U=\cU_{\cC}(A)\subseteq\cC$, and let $\Gamma_A$ be the
+$\cC$-complete with $U=U(A)\subseteq\cC$, and let $\Gamma_A$ be the
 graph on $U$ in which $u\sim v$ when the line $uv$ contains a point of $A$.
 For $S\subseteq\cC$, the set $A\cup S$ is an arc if and only if
 $S\subseteq U$ and $S$ is independent in $\Gamma_A$: a covered conic point
@@ -1634,7 +1643,7 @@ it is $\frac12+\sqrt2$.
 For $k\ge q+3$, $T_\ell\ge k-q-3$ on every secant and
 $\varphi_m(T)\ge T/(T+1)$ is nondecreasing in $T$, so
 \eqref{eq:secant-local} gives
-$L\ge N\frac{k-q-3}{k-q-2}=N\bigl(1-\frac1{k-q-2}\bigr)$,
+$\sum_\ell\varphi_m(T_\ell)\ge N\frac{k-q-3}{k-q-2}=N\bigl(1-\frac1{k-q-2}\bigr)$,
 which is~\eqref{eq:pg3q-coverage}; completeness turns it
 into~\eqref{eq:pg3q-complete}.  For the limit, drop $\IH/m$ and note that
 the first-moment inequality $\theta_3-k-h\le N(q-1)$ bounds
@@ -1765,9 +1774,12 @@ unconditional concentration bound so far.
 Determine whether the secant-local bound of
 Corollary~\ref{cor:pg3q-complete-caps} is attained.  Equality forces the
 secants of a complete cap in $\PG(3,q)$ to split into concurrent bundles of
-size $k-q-2$ with secants from different bundles skew, every plane meeting
+size $k-q-2$ with no two secants from different bundles meeting off the
+cap, every plane meeting
 the cap in at most four points, and $\binom{k}{2}(q-2+\frac1{k-q-2})=q^3+q^2+q+1-k$;
-for $k=q+4$ the last condition fails for every $q$.
+for $k=q+3$ the last condition holds only for $q=2$, where the elliptic
+quadric of $\PG(3,2)$ attains equality, and for $k=q+4$ it fails for every
+$q$.
 \end{problem}
 
 \appendix
